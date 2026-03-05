@@ -1,5 +1,6 @@
-from random import randint
+#https://cs50.harvard.edu/python/psets/4/game/
 
+from random import randint
 
 def main():
 
