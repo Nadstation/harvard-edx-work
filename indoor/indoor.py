@@ -1,6 +1,4 @@
-#word = str(input())
-#word = word.upper()
-#print(word)
+#https://cs50.harvard.edu/python/psets/0/indoor/
 
 def main():
     name = str(input())
