@@ -1,3 +1,5 @@
+#https://cs50.harvard.edu/python/psets/2/camel/
+
 def main():
     camelCase = input("camelCase: ")
     print(convert(camelCase))
