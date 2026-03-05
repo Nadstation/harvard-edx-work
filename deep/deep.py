@@ -1,3 +1,5 @@
+#https://cs50.harvard.edu/python/psets/1/deep/
+
 name = input("What's is the Answer to the Great Question of Life, The Universe, And Eververse, and Everything? ").strip().lower()
 
 """
