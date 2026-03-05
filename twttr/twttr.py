@@ -1,3 +1,5 @@
+#https://cs50.harvard.edu/python/psets/2/twttr/
+
 # Or another solution using filter function
 # s = "".join(filter(lambda c: c != "o", s))
 vowels = ["a", "e", "i", "o", "u"]
