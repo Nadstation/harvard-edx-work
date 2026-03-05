@@ -1,3 +1,5 @@
+#https://cs50.harvard.edu/python/psets/1/meal/
+
 def main():
     time = input("What time is it? ")
     time = float(convert(time))
