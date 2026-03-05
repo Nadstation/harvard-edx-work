@@ -1,3 +1,5 @@
+#https://cs50.harvard.edu/python/psets/1/extensions/
+
 def main():
     file = input("File name: ").strip().lower()
 
