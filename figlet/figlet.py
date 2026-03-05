@@ -1,3 +1,5 @@
+#https://cs50.harvard.edu/python/psets/4/figlet/
+
 import sys
 import random
 from pyfiglet import Figlet
